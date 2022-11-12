@@ -135,7 +135,7 @@ body {
     width: auto;
   }
   .img_container {
-    height: 400px;
+    height: 310px;
   }
   .img-desktop {
     display: none;
@@ -153,6 +153,6 @@ body {
     padding: 15px;
   }
   .my-5 {
-    margin: 20px 0;
+    margin: 15px 0;
   }
 }
